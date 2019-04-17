@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/database/index.js"],"names":["callback","require"],"mappings":";;;;;;kBAAe,oBAAY;AACzBA,WAASC,QAAQ,UAAR,CAAT;AACD,C","file":"index.js","sourcesContent":["export default callback => {\n  callback(require('./models'));\n}\n"]}
